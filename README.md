@@ -6,7 +6,7 @@ environment variable's value can be split into an array automatically.
 
 ## Build Status
 
-![Unit Tests](https://github.com/silinternational/php-env/actions/workflows/test.yml/badge.svg?branch=master)
+![Unit Tests](https://github.com/sil-org/php-env/actions/workflows/test.yml/badge.svg?branch=main)
 
 ## Setup
 
